@@ -56,7 +56,7 @@ The Typing Game challenges players to type words that appear on the screen befor
 
 ## Contributors
 - [Shubair Hyder](https://github.com/shubairHyder)
-- Shah Anas Khan
+- [Shah Anas Khan](https://github.com/shahanas2005)
 - [Abuzar Ali](https://github.com/CodeWithAbuzarAli)
 
 Feel free to contribute or give suggestions.
