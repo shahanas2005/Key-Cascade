@@ -1,12 +1,12 @@
 # Key Cascade
 
 # Table of Contents
-- [Description](#description)
-- [Objective](#objective)
-- [Features](#features)
-- [How To Play](#how-to-play)
-- [Result](#result)
-- [Contributors](#contributors)
+- [Description.](#description)
+- [Objective.](#objective)
+- [Features.](#features)
+- [How To Play.](#how-to-play)
+- [Result.](#result)
+- [Contributors.](#contributors)
 
 ## Description
 
